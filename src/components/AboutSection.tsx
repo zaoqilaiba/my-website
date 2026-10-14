@@ -9,7 +9,7 @@ export default function AboutSection() {
           <div className="aspect-square w-full overflow-hidden rounded-2xl bg-gray-200 dark:bg-gray-700">
             <img
               src=""
-              alt="木羽Cheney 个人照片"
+              alt="王浩腾 个人照片"
               loading="lazy"
               className="h-full w-full object-cover"
               onError={(e) => {
@@ -25,7 +25,7 @@ export default function AboutSection() {
           </h2>
           <div className="space-y-4 text-base leading-relaxed text-gray-600 dark:text-gray-300">
             <p>
-              你好，我是木羽Cheney，一名全栈开发工程师。我热衷于探索前沿技术，擅长使用 React、TypeScript 和 Node.js 构建高质量的 Web 应用。
+              你好，我是王浩腾，一名全栈开发工程师。我热衷于探索前沿技术，擅长使用 React、TypeScript 和 Node.js 构建高质量的 Web 应用。
             </p>
             <p>
               我相信好的技术应该服务于人，而不是制造复杂。在工作中，我追求代码的简洁与优雅，注重用户体验和性能优化，致力于将复杂的技术问题转化为直观的解决方案。

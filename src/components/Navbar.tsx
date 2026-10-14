@@ -21,7 +21,7 @@ export default function Navbar() {
           href="#"
           className="shrink-0 text-lg font-bold text-gray-900 dark:text-white"
         >
-          木羽Cheney
+          王浩腾
         </a>
 
         {/* 桌面端导航 */}

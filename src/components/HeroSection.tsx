@@ -12,7 +12,7 @@ export default function HeroSection() {
       </div>
       <div className="relative z-10 mx-auto max-w-3xl px-6 text-center">
         <h1 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white md:text-6xl">
-          木羽Cheney
+          王浩腾
         </h1>
         <p className="mt-4 text-lg font-medium text-indigo-600 dark:text-indigo-400 md:text-xl">
           全栈开发工程师
